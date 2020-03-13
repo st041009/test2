@@ -1,0 +1,34 @@
+{
+  "type": "LocCollection",
+  "crs": {
+    "type": "name"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "LOC_ID": 1,
+        "NAME": "Market Place",
+        "ADRESS": "Nevskiy 22-24",
+        "DESCRIPTION": "Come to us to drink some coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [59.935944, 30.324097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOC_ID": 2,
+        "NAME": "GSOM Faculty",
+        "ADRESS": "Volkhovskiy 3",
+        "DESCRIPTION": "Join our unforgetable adventure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [59.945202, 30.290302]
+      }
+    }
+  ]
+}
